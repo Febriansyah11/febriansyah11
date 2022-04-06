@@ -23,10 +23,10 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/berryprana"><img src="https://img.shields.io/badge/-Berry%20Prana-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/febriansyah-adiputra-3a926a1a1/"><img src="https://img.shields.io/badge/-Febriansyah%20Adiputra-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:berryprana@gmail.com"><img src="https://img.shields.io/badge/-1102.adiputra@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/febriaansz"><img src="https://img.shields.io/badge/-febriansyah.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ---
-Credit: [berryprana](https://github.com/berryprana/)
+Credit: [febriansyah](https://github.com/febriansyah11/)
