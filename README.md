@@ -6,12 +6,13 @@
 <p align="center" width="150px">I am a web developer who is in love with programming, I enjoy learning about new technologies and have passion for web development. Positive thinking is best described as me. I never give up on my assignment. I am rational as well as having the ability to control my personal feeling in all situation.</p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berryprana)](https://github.com/berryprana/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berryprana)](https://github.com/febriansyah11/github-readme-stats)
 
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![REACT.JS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=FF2D20)&nbsp;
+![REACTNATIVE](https://img.shields.io/badge/-React-05122A?style=flat&logo=reactnative&logoColor=FF2D20)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
