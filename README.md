@@ -6,7 +6,6 @@
 <p align="center" width="150px">I am a web developer who is in love with programming, I enjoy learning about new technologies and have passion for web development. Positive thinking is best described as me. I never give up on my assignment. I am rational as well as having the ability to control my personal feeling in all situation.</p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berryprana)](https://github.com/febriansyah11/github-readme-stats)
 
 ### 🛠 &nbsp;Tech Stack
 
